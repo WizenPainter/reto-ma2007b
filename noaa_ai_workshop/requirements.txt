@@ -1,0 +1,6 @@
+conda install -c anaconda xarray
+conda install -c conda-forge jupyter
+conda install -c pytorch pytorch
+conda install -c pytorch torchvision
+conda install -c conda-forge tqdm
+conda install -c anaconda scikit-learn
